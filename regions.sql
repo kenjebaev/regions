@@ -226,6 +226,8 @@ INSERT INTO `districts` (`id`, `region_id`, `name`) VALUES
 (212, 11, 'Ohangaron shahri'),
 (213, 11, 'Yangiyo‘l shahri'),
 (215, 11, 'Toshkent tumani');
+(216, 1, 'Bo'zatov tumani');
+(217, 13, 'Tuproqqala tumani');
 
 -- --------------------------------------------------------
 
@@ -10269,7 +10271,14 @@ INSERT INTO `quarters` (`id`, `district_id`, `name`) VALUES
 (10181, 213, 'Fayzobod MFY'),
 (10182, 213, 'Fayzli (Farxod) MFY'),
 (11183, 207, 'Adolat MFY');
-
+(11184, 201, 'Zarqaynar MFY');
+(11185, 201, 'Chuvalachi MFY');
+(11186, 201, 'Baliqchi MFY');
+(11187, 201, 'Sariqsuv MFY');
+(11188, 201, 'Sobir Rahimov MFY');
+(11189, 205, 'Beshchinor MFY');
+(11190, 206, 'Faol ko‘cha MFY');
+ 
 -- --------------------------------------------------------
 
 --
@@ -10331,13 +10340,13 @@ ALTER TABLE `regions`
 -- AUTO_INCREMENT для таблицы `districts`
 --
 ALTER TABLE `districts`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=216;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=218;
 
 --
 -- AUTO_INCREMENT для таблицы `quarters`
 --
 ALTER TABLE `quarters`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=11184;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=11191;
 
 --
 -- AUTO_INCREMENT для таблицы `regions`
