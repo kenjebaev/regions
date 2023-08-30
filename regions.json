@@ -1067,6 +1067,11 @@
             "id":217,
             "region_id":13,
             "name":"Tuproqqala tumani"
+        },
+        {
+            "id":218,
+            "region_id":5,
+            "name":"Ko'kdala tumani"
         }
     ],
     "quarters":[
@@ -13727,7 +13732,7 @@
         },
         {
             "id":2695,
-            "district_id":84,
+            "district_id":218,
             "name":"Uymovut QFY"
         },
         {
@@ -13812,17 +13817,17 @@
         },
         {
             "id":2712,
-            "district_id":84,
+            "district_id":218,
             "name":"Chiyal QFY"
         },
         {
             "id":2713,
-            "district_id":84,
+            "district_id":218,
             "name":"Uymovut MFY"
         },
         {
             "id":2714,
-            "district_id":84,
+            "district_id":218,
             "name":"To`qmor MFY"
         },
         {
@@ -13832,22 +13837,22 @@
         },
         {
             "id":2716,
-            "district_id":84,
+            "district_id":218,
             "name":"Qumdaryo QFY"
         },
         {
             "id":2717,
-            "district_id":84,
+            "district_id":218,
             "name":"Suvliq MFY"
         },
         {
             "id":2718,
-            "district_id":84,
+            "district_id":218,
             "name":"Annaro`z MFY"
         },
         {
             "id":2719,
-            "district_id":84,
+            "district_id":218,
             "name":"Chuvilloq MFY"
         },
         {
@@ -13872,47 +13877,47 @@
         },
         {
             "id":2724,
-            "district_id":84,
+            "district_id":218,
             "name":"Kukdala QFY"
         },
         {
             "id":2725,
-            "district_id":84,
+            "district_id":218,
             "name":"Soybo`yi MFY"
         },
         {
             "id":2726,
-            "district_id":84,
+            "district_id":218,
             "name":"O`tamayli MFY"
         },
         {
             "id":2727,
-            "district_id":84,
+            "district_id":218,
             "name":"Beglamish MFY"
         },
         {
             "id":2728,
-            "district_id":84,
+            "district_id":218,
             "name":"Torjilg`a QFY"
         },
         {
             "id":2729,
-            "district_id":84,
+            "district_id":218,
             "name":"Guliston MFY"
         },
         {
             "id":2730,
-            "district_id":84,
+            "district_id":218,
             "name":"Eski anhor QFY"
         },
         {
             "id":2731,
-            "district_id":84,
+            "district_id":218,
             "name":"Ayritom MFY"
         },
         {
             "id":2732,
-            "district_id":84,
+            "district_id":218,
             "name":"Paxtalisoy MFY"
         },
         {
@@ -13922,42 +13927,42 @@
         },
         {
             "id":2734,
-            "district_id":84,
+            "district_id":218,
             "name":"Taloqtepa MFY"
         },
         {
             "id":2735,
-            "district_id":84,
+            "district_id":218,
             "name":"Xarduri MFY"
         },
         {
             "id":2736,
-            "district_id":84,
+            "district_id":218,
             "name":"Sho`rbozor MFY"
         },
         {
             "id":2737,
-            "district_id":84,
+            "district_id":218,
             "name":"Chorvador QFY"
         },
         {
             "id":2738,
-            "district_id":84,
+            "district_id":218,
             "name":"Qanotli MFY"
         },
         {
             "id":2739,
-            "district_id":84,
+            "district_id":218,
             "name":"Sho`rquduq QFY"
         },
         {
             "id":2740,
-            "district_id":84,
+            "district_id":218,
             "name":"Naymansaroy MFY"
         },
         {
             "id":2741,
-            "district_id":84,
+            "district_id":218,
             "name":"Umakay MFY"
         },
         {
@@ -51204,6 +51209,46 @@
             "id":11190,
             "district_id":206,
             "name":"Faol ko‘cha MFY"
+        },
+        {
+            "id":11191,
+            "district_id":218,
+            "name":"Oltin boshoq MFY"
+        },
+        {
+            "id":11192,
+            "district_id":218,
+            "name":"Baxt MFY"
+        },
+        {
+            "id":11193,
+            "district_id":218,
+            "name":"Toshli MFY"
+        },
+        {
+            "id":11194,
+            "district_id":218,
+            "name":"Xushali MFY"
+        },
+        {
+            "id":11195,
+            "district_id":218,
+            "name":"Xo’jaobod MFY"
+        },
+        {
+            "id":11196,
+            "district_id":218,
+            "name":"Zum MFY"
+        },
+        {
+            "id":11197,
+            "district_id":218,
+            "name":"G’allakor MFY"
+        },
+        {
+            "id":11198,
+            "district_id":218,
+            "name":"Oltin dala MFY"
         }
     ]
 }
